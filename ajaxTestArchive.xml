@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog>
+	<person>
+		<id>0</id>
+		<name>Titan</name>
+		<age>900</age>
+		<gender>male</gender>
+		<hobby>Fight</hobby>
+	</person>
+	<person>
+		<id>1</id>
+		<name>Ajax</name>
+		<age>35</age>
+		<gender>male</gender>
+		<hobby>Change</hobby>
+	</person>
+	<person>
+		<id>2</id>
+		<name>Maria</name>
+		<age>28</age>
+		<gender>female</gender>
+		<hobby>Read</hobby>
+	</person>
+	<person>
+		<id>3</id>
+		<name>Bodland</name>
+		<age>60</age>
+		<gender>male</gender>
+		<hobby>Think</hobby>
+	</person>
+	<person>
+		<id>4</id>
+		<name>Ruby</name>
+		<age>19</age>
+		<gender>female</gender>
+		<hobby>Fancy</hobby>
+	</person>
+	<person>
+		<id>5</id>
+		<name>Valve</name>
+		<age>45</age>
+		<gender>male</gender>
+		<hobby>Create</hobby>
+	</person>
+	<person>
+		<id>6</id>
+		<name>Nova</name>
+		<age>25</age>
+		<gender>male</gender>
+		<hobby>Fly</hobby>
+	</person>
+</catalog>
